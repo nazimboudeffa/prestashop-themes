@@ -1,0 +1,10 @@
+parent: classic
+name: classic-child
+display-name: Thème enfant du thème classic
+version: 1.0.0
+author:
+  name: "Nazim Boudeffa"
+  email: "boudeffa@gmail.com"
+  url: "https://www.prestashop.com"
+assets:
+    use_parent_assets: true
